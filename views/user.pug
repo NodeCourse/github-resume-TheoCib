@@ -1,0 +1,8 @@
+header
+    title GitHub Profil
+    link(rel="stylesheet", href="/css/styles.css")
+    h1 Voici le profil de #{user.login}
+body
+    img.avatar(src=user.avatar_url)
+    p #{user.login}
+    p #{user.id}

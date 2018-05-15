@@ -18,6 +18,7 @@
   "homepage": "https://github.com/NodeCourse/github-resume-TheoCib#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "pug": "^2.0.3"
+    "pug": "^2.0.3",
+    "request": "^2.85.0"
   }
 }
